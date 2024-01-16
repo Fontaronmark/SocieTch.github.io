@@ -1,0 +1,365 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #151515;
+    position: relative;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    color: #333;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#h2 {
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-left: 4px;
+}
+
+#logo {
+    display: inline;
+    text-align: left;
+    width: 150px;
+    height: auto;
+}
+
+nav {
+    display: table-row;
+    text-align: center;
+    text-emphasis-position: over right;
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin-right: 15px;
+        font-family: Britannic;
+        justify-content: space-between;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        margin-left: 4px;
+        margin-top: 2cm;
+    }
+ 
+
+h3{  
+    text-align: center;
+    font-size: 60PX;
+    color: white;
+    font-family: Franklin Gothic Medium;
+     
+    
+  
+}
+
+.scrolling-word {
+    text-align: justify;
+    font-size: 5em;
+    color: #151515;
+    transition: color 0.2s ease-in-out;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    text-indent: each-line;
+    font-family: Times New Roman, Times, serif;
+}
+.container {
+    max-width: 100%; 
+    margin: 20px auto; 
+    background-color: #151515; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    width: 80%; 
+}
+
+.text-and-image {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.image img {
+    width: 300px;
+    height: auto;
+}
+
+.container1{
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text1 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Ronnie img{
+    
+    height: auto;
+    width:300px;
+}
+
+.container2 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text2 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Virgillio img{
+    
+    height: auto;
+    width: 300px;
+}
+
+.container3 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text3 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Jesus img{
+
+    height: auto;
+    width:300px;
+
+
+
+}
+
+.container4 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text4 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Perci img{
+    height: auto;
+    width: 300px;
+}
+
+.container5 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image5 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text5 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Jhannah img{
+    height: auto;
+    width: 300px;
+}
+
+.container6 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image6 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text6 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Cris img{
+
+    height: auto;
+    width: 300px;
+
+}
+
+.container7 {
+    max-width: 100%;
+    margin: 20px auto;
+    background-color: #151515;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+}
+
+.text-and-image7 {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+.text7 {
+    text-align: left;
+    color: white;
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    margin-right: 1cm;
+}
+
+.Juan img{
+    
+    height: auto;
+   width:300px;
+}
+#h5 {
+    text-align: center;
+    font-size: 80pX;
+    color: white;
+    font-family: Franklin Gothic Medium;
+}
+.Eff {
+    text-align: justify;
+    font-size: 60px;
+    color: white;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    text-indent: each-line;
+    font-family: Times New Roman, Times, serif;
+}
+
+
+#header{
+    text-align: center;
+    font-size: 80pX;
+    color: white;
+    font-family: Franklin Gothic Medium;
+}
+
+#Context {
+    text-align: justify;
+    font-size: 60px;
+    color: white;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    text-indent: each-line;
+    font-family: Times New Roman, Times, serif;
+}
+#h4{
+    text-align: center; 
+    color: white; 
+    font-family: Britannic;
+    font-size: 50px;
+
+}
+
+footer{
+
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Franklin Gothic Book;
+}
+
+
+
+

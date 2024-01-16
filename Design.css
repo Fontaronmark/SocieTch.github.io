@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #151515;
+    position: relative;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    color: #333;
+    padding: 10px;
+    font-size: 25px;
+   
+
+ }
+
+#h2{
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-left: 4px; 
+
+}
+#logo{
+    display:inline;
+    text-align: left;
+    width: 150px;
+    height: auto; 
+   
+
+}
+#h1{
+    text-align: center; 
+    font-family:Century Gothic;
+    color: white; 
+    font-size: 60px;
+    margin-top: 2px;
+    margin-left: 2cm;
+
+}
+nav {
+    display:table-row;
+    text-align: center;
+    text-emphasis-position:over right; 
+
+   
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin-right: 15px;
+        font-family: Britannic;
+        justify-content: space-between;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        margin-left: 4px;
+        margin-top: 2cm;
+    }
+
+#Paragraph {
+    text-align: center;
+    font-family: Bahnschrift;
+    color: white;
+    font-size: 60px;
+}
+
+#Tagline{
+    font-size: 45px; 
+    font-family:Britannic;
+    color: white; 
+    text-align:center; 
+
+}
+
+#slider {
+    width: 100%;
+    overflow: hidden;
+}
+
+#slides {
+    display: flex;
+    transition: transform 1s ease-in-out;
+}
+
+.slide {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+.pics{
+    text-align: center; 
+}
+ img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    margin: 10px;
+    width: 80%;
+}
+footer {
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Franklin Gothic Book;
+    
+}
+
+
+H3{
+    text-align: center;
+    font-size: 60PX;
+    color:white; 
+    font-family: Franklin Gothic Medium;
+    margin-top: 6cm;
+
+}
+
+
+
+
+
+
+   

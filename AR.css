@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #151515;
+    position: relative;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+    color: #333;
+    padding: 10px;
+    font-size: 25px;
+}
+
+#h2 {
+    justify-content: space-between;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-left: 4px;
+}
+
+#logo {
+    display: inline;
+    text-align: left;
+    width: 150px;
+    height: auto;
+}
+
+nav {
+    display: table-row;
+    text-align: center;
+    text-emphasis-position: over right;
+}
+
+    nav a {
+        color: white;
+        text-decoration: none;
+        margin-right: 15px;
+        font-family: Britannic;
+        justify-content: space-between;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        margin-left: 4px;
+        margin-top: 2cm;
+    }
+.container { 
+    margin: 20px auto; 
+    background-color: #333; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left; 
+    font-family: Britannic;
+}
+
+.text {
+    margin-left: 20px; 
+    margin-right: 2cm; 
+}
+
+.image img {
+    max-width: 200px;
+    height: auto;
+}
+
+.text-link {
+    color:white;
+    text-decoration: underline; 
+    cursor: pointer;
+    font-size: 30px;
+}
+#h6{
+    text-align: center; 
+    color: white; 
+    font-family: Britannic;
+    font-size: 50px;
+
+}
+.container1{
+    margin: 20px auto;
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-family: Britannic;
+}
+.Jhannah img{
+
+
+    max-width: 200px;
+    height: auto;
+}
+.Villegas {
+    margin-left: 20px;
+    margin-right: 2cm;
+}
+
+
+.Juan img{ 
+    max-width: 200px;
+    height: auto;
+
+}
+.Jumalon {
+    margin-left: 20px;
+    margin-right: 2cm;
+}
+
+footer {
+    background-color: #000000;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: Franklin Gothic Book;
+}
+#Related {
+    text-align: center;
+    color: white;
+    font-family: Britannic;
+    font-size: 30px;
+    margin-top: 4cm; 
+
+}
+
+.PRESS {
+    margin: 20px auto;
+    background-color: #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    font-family:'Century Gothic';
+}
+.Una {
+    margin-left: 20px;
+    margin-right: 2cm;
+}
+
+.FIRST img {
+    max-width: 500px;
+    height: auto;
+}
